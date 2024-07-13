@@ -1,0 +1,7 @@
+# print("100+10")
+# print("Hola" + " Leidy")
+# print("Me llamo \"Leidy\"")
+# print("Esta es una linea\nY esta es otra linea")
+# print("\tEsto es tabulacion")
+print("Linea 1\nLinea 2\nLinea 3")
+print("A \tB \tC\nD \tE \tF\nG \tH \tI")
