@@ -1,6 +1,6 @@
 class Joya:
     def __init__(self, nombre, material, precio):
-        self.nombre = nombre 
+        self.nombre = nombre
         self.material = material
         self.precio = precio
         
@@ -70,7 +70,7 @@ def main():
         print("3. Realizar venta")
         print("4. Mostrar ventas")
         print("5. Mostrar ingresos totales")
-        print("6. salir")
+        print("6. Salir")
         
         opcion = int(input("Ingrese la opcion del menu: "))
         
